@@ -21,7 +21,7 @@ title_separator          : "-"
 name                     : "Your Name"
 description              : "An amazing team with Ryu"
 url                      : "https://kingssafy.github.io"
-baseurl                  : "/blog"
+baseurl                  : ""
 repository               : "kingssafy/blog"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
